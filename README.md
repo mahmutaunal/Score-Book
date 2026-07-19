@@ -3,8 +3,6 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.8%2B-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-5865F2)
-![Version](https://img.shields.io/badge/version-1.1.0%2B2-5366A6)
-![Languages](https://img.shields.io/badge/languages-English%20%7C%20Türkçe-7B5C78)
 
 Scorebook is a privacy-first, offline scorekeeping and game-history application for board games, card games, and custom game nights. It provides structured round tracking, player statistics, reusable game templates, local backups, and cross-device game transfer without requiring an account or an internet connection.
 
@@ -18,12 +16,6 @@ The application is built with Flutter and targets both Android and iOS.
   <img src="assets/store/android/en/03_active_game.png" alt="Live score tracking" width="220" />
   <img src="assets/store/android/en/04_result.png" alt="Game result and ranking" width="220" />
 </p>
-
-Localized store assets and original in-app captures are available under:
-
-- [`assets/store/android/en`](assets/store/android/en) — English marketing assets
-- [`assets/store/android/tr`](assets/store/android/tr) — Turkish marketing assets
-- [`assets/screenshots/android`](assets/screenshots/android) — original in-app screenshots
 
 ## Key Features
 
