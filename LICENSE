@@ -1,0 +1,120 @@
+SKOR DEFTERI / SCOREBOOK PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 AlpWare Studio and Mahmut Alperen Unal.
+All rights reserved.
+
+NOTICE: THIS IS PROPRIETARY AND CONFIDENTIAL SOFTWARE. IT IS NOT OPEN SOURCE.
+
+1. Ownership
+
+The software known as "Skor Defteri" and/or "Scorebook", including without
+limitation its source code, object code, architecture, algorithms, application
+logic, user interface, visual designs, graphics, documentation, databases,
+build files, configuration files, and all related materials (collectively, the
+"Software"), is owned by AlpWare Studio and Mahmut Alperen Unal (collectively,
+the "Owner") or, where applicable, by the Owner's licensors. The Software is
+protected by applicable copyright, intellectual property, unfair competition,
+and other laws and treaties.
+
+2. No Open-Source License or Implied Rights
+
+No open-source license is granted under this document. Except for a limited
+right to use an authorized, officially distributed executable version of the
+Software in accordance with the applicable app-store terms and any end-user
+terms supplied with that version, no license or right is granted to any person
+or entity, whether expressly, by implication, estoppel, or otherwise.
+
+Possession of, access to, or visibility of any part of the Software, whether
+authorized, accidental, or otherwise, does not grant permission to use, copy,
+modify, disclose, or distribute it.
+
+3. Prohibited Activities
+
+Unless the Owner has given prior express written permission, you may not,
+directly or indirectly:
+
+  a. access, use, reproduce, copy, publish, disclose, distribute, transmit,
+     sublicense, sell, lease, host, or otherwise make available any source code
+     or non-public material belonging to the Software;
+
+  b. modify, adapt, translate, create derivative works from, or incorporate any
+     part of the Software into another product, service, dataset, or project;
+
+  c. reverse engineer, decompile, disassemble, decode, or otherwise attempt to
+     derive or discover source code, underlying ideas, algorithms, structure,
+     or non-public interfaces of the Software, except solely to the limited
+     extent that such a restriction is prohibited by mandatory applicable law;
+
+  d. remove, conceal, or alter any copyright, trademark, attribution,
+     confidentiality, or proprietary notice;
+
+  e. circumvent authentication, access controls, security measures, licensing
+     controls, or technical restrictions protecting the Software;
+
+  f. use the Software or its materials to create, train, improve, benchmark, or
+     validate a competing product, artificial-intelligence model, or automated
+     code-generation system; or
+
+  g. claim ownership of or register rights in the Software or any confusingly
+     similar name, design, or material.
+
+4. Confidentiality and Unauthorized Disclosure
+
+All non-public source code and related technical materials are confidential.
+If you receive or gain access to them without the Owner's express written
+authorization, you must not inspect them beyond what is reasonably necessary
+to identify the material, and you must not use, copy, retain, or disclose them.
+You must promptly notify the Owner and securely delete or return all copies,
+subject to any preservation duty imposed by applicable law.
+
+5. Third-Party Components
+
+The Software may include or depend on third-party components. Those components
+remain subject to their respective licenses and notices. Nothing in this
+License limits rights granted directly by a third-party license or claims
+ownership over third-party materials. This License applies only to the Owner's
+proprietary materials and contributions.
+
+6. Enforcement and Termination
+
+Any permission granted separately by the Owner terminates automatically upon a
+breach of its terms or this License. Unauthorized use may result in civil or
+criminal liability and may be subject to injunctive relief, damages, recovery
+of costs, or any other remedies available under applicable law. The Owner's
+failure to enforce a provision does not waive that provision or any other
+right.
+
+7. No Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND ALL RELATED
+MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY
+KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR
+GOODWILL, ARISING FROM OR RELATED TO THE SOFTWARE OR THESE TERMS, REGARDLESS OF
+THE THEORY OF LIABILITY AND EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE
+EXCLUDED OR LIMITED.
+
+9. Severability
+
+If any provision of this License is held invalid or unenforceable, that
+provision shall be enforced to the maximum extent permitted, and the remaining
+provisions shall continue in full force and effect.
+
+10. Permissions and Contact
+
+Any permission, commercial license, source-code access, or other authorization
+must be set out in a separate written agreement signed by the Owner. Requests
+may be submitted through:
+
+https://www.alpwarestudio.com
+
+No response to a request constitutes permission unless express written
+authorization is issued by the Owner.
+
