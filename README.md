@@ -4,7 +4,15 @@
 [![Dart](https://img.shields.io/badge/Dart-3.8%2B-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-5865F2)
 
-Scorebook is a privacy-first, offline scorekeeping and game-history application for board games, card games, and custom game nights. It provides structured round tracking, player statistics, reusable game templates, local backups, and cross-device game transfer without requiring an account or an internet connection.
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri">
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
+</p>
+
+Score Book is a privacy-first, offline scorekeeping and game-history application for board games, card games, and custom game nights. It provides structured round tracking, player statistics, reusable game templates, local backups, and cross-device game transfer without requiring an account or an internet connection.
 
 The application is built with Flutter and targets both Android and iOS.
 
