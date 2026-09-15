@@ -5,11 +5,13 @@
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-5865F2)
 
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
+  <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Get Novi on Google Play" height="52">
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/app/score-book-game-counter/id6795472075">
+    <img src="https://img.shields.io/badge/Download_on_the-Mac_App_Store-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download Novi on the Mac App Store" height="52">
+  </a>
 </p>
 
 Score Book is a privacy-first, offline scorekeeping and game-history application for board games, card games, and custom game nights. It provides structured round tracking, player statistics, reusable game templates, local backups, and cross-device game transfer without requiring an account or an internet connection.
