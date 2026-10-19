@@ -6,11 +6,11 @@
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri">
-    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Get Novi on Google Play" height="52">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-000000?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Get Score Book on Google Play" height="52">
   </a>
   &nbsp;
   <a href="https://apps.apple.com/app/score-book-game-counter/id6795472075">
-    <img src="https://img.shields.io/badge/Download_on_the-Mac_App_Store-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download Novi on the Mac App Store" height="52">
+    <img src="https://img.shields.io/badge/Get_it_on-App_Store-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Get Score Book on App Store" height="52">
   </a>
 </p>
 
